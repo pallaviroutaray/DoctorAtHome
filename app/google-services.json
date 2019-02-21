@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "524835513434",
+    "firebase_url": "https://doctorathome-18693.firebaseio.com",
+    "project_id": "doctorathome-18693",
+    "storage_bucket": "doctorathome-18693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524835513434:android:e358905b966f750b",
+        "android_client_info": {
+          "package_name": "creativecat.com.doctorathome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524835513434-b98nkdmirojhtbg0npre2qrq1hn25cu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "creativecat.com.doctorathome",
+            "certificate_hash": "5f97bc679f446e3e2be8707b29eb083df41ada99"
+          }
+        },
+        {
+          "client_id": "524835513434-01ek1fg7uin1479g5jq8ljmknv2fbu83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "creativecat.com.doctorathome",
+            "certificate_hash": "454c0b5fee0a133dedd8a8e9990714555a946165"
+          }
+        },
+        {
+          "client_id": "524835513434-l2f5lsdj40gdbfp32kavldv2t4b3gune.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0XQizVk7EbBgNGm6E4A6blOXJjA6mB-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524835513434-l2f5lsdj40gdbfp32kavldv2t4b3gune.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
